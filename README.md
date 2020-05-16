@@ -1,0 +1,2 @@
+# ExercisesInC
+Exercises in C
